@@ -1,0 +1,3 @@
+SparkConfig:
+  app_name: 'spark_duplicate_checker_app'
+  master: 'local[*]'
